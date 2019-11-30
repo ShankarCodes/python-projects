@@ -1,4 +1,40 @@
-def fuzzint(argument):
-    def decorator(function):
-        def hello()
-    pass
+import random
+def get_invalid():
+    return (
+    0,
+    -1,
+    1,
+    2,
+    3,
+    10,
+    -10,
+    0.005,
+    0.4,
+    1.32,
+    -0.124,
+    -12.05,
+    -3234234.2453,
+    24323345.3423,
+    random.randint(0,10**1),
+    random.randint(10**1,10**2),
+    random.randint(10**2,10**3),
+    random.randint(10**3,10**4),
+    random.randint(10**4,10**5),
+    random.randint(10**6,10**7),
+    random.randint(10**7,10**8),
+    random.randint(10**8,10**9),
+    random.randint(10**9,10**10),
+    
+    random.randint(-10**1,0),
+    random.randint(-10**2,-10**1),
+    random.randint(-10**3,-10**2),
+    random.randint(-10**4,-10**3),
+    random.randint(-10**5,-10**4),
+    random.randint(-10**6,-10**5),
+    random.randint(-10**7,-10**6),
+    random.randint(-10**8,-10**7),
+    random.randint(-10**9,-10**8),
+    random.randint(-10**10,-10**9),
+    random.randint(10**10000,10**11000),
+    random.randint(-10**111000,-10**10000)
+    ) 
