@@ -1,0 +1,7 @@
+setup.py
+sfuzzer/__init__.py
+sfuzzer.egg-info/PKG-INFO
+sfuzzer.egg-info/SOURCES.txt
+sfuzzer.egg-info/dependency_links.txt
+sfuzzer.egg-info/not-zip-safe
+sfuzzer.egg-info/top_level.txt
