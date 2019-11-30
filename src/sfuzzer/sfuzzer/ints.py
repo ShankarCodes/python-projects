@@ -1,4 +1,4 @@
 def fuzzint(argument):
     def decorator(function):
-        def 
+        def hello()
     pass
