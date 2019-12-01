@@ -1,8 +1,4 @@
 setup.py
-sct/__init__.py
-sct/__main__.py
-sct/ecc.py
-sct/keys.py
 sct.egg-info/PKG-INFO
 sct.egg-info/SOURCES.txt
 sct.egg-info/dependency_links.txt
