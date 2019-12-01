@@ -1,5 +1,5 @@
 from setuptools import setup
-setup(name='sct',
+setup(name='shankar-tools',
       version='0.2',
       description='sct package for crypto tools',
       url='https://github.com/ShankarCodes/sct',
