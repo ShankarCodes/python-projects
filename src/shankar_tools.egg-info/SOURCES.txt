@@ -1,0 +1,12 @@
+setup.py
+sct/__init__.py
+sct/__main__.py
+sct/ecc.py
+sct/keys.py
+shankar_tools.egg-info/PKG-INFO
+shankar_tools.egg-info/SOURCES.txt
+shankar_tools.egg-info/dependency_links.txt
+shankar_tools.egg-info/requires.txt
+shankar_tools.egg-info/top_level.txt
+shankar_tools.egg-info/zip-safe
+sutil/__init__.py

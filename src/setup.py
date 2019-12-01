@@ -6,6 +6,10 @@ setup(name='shankar-tools',
       author='shankar',
       author_email='mailstoshankar@gmail.com',
       license='MIT',
-      packages=['sct'],
-      zip_safe=True)
+      packages=['sct','sutil'],
+      zip_safe=True,
+      install_requires=[
+          'cryptography',
+      ]
+      )
     
